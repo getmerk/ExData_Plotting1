@@ -1,5 +1,5 @@
 
-# Exploratory data analysis course 
+# Exploratory data analysis  
 # Course project 1: Plot1.R 
 
 download.file("http://archive.ics.uci.edu/ml/machine-learning-databases/00235/household_power_consumption.zip", 
